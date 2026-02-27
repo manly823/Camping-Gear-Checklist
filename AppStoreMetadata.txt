@@ -1,0 +1,91 @@
+=== APP STORE METADATA ===
+
+📱 APP NAME (MAX 20 CHARS):
+Camping Gear Check
+
+📝 SUBTITLE (MAX 30 CHARS):
+Trip Packing & Weight Tracker
+
+🔑 KEYWORDS (MAX 100 CHARS, NO SPACES AFTER COMMAS!):
+camping,gear,checklist,packing,hiking,backpack,weight,trip,outdoor,tent,food,knots,planner,trail
+
+📖 DESCRIPTION (PLAIN TEXT ONLY, NO EMOJIS, NO BULLET POINTS):
+
+Camping Gear Checklist is the smart packing companion for hikers, campers, and outdoor adventurers. Plan your trip, pack your gear with confidence, analyze pack weight, calculate food requirements, and learn essential camping knots.
+
+Start by setting up your trip with a name, destination, trip type, duration, and group size. The app generates a tailored gear checklist based on your trip type. Mountain trips include trekking poles and altitude medicine. Winter trips add four-season tents and down jackets. Lake trips suggest dry bags and fishing kits. Desert trips prioritize extra water and sun shelter. Every list covers nine essential categories including shelter, sleep system, cooking, clothing, navigation, safety, hygiene, water, and tools.
+
+Check items off as you pack them with a satisfying tap. Search through your entire gear list by name or filter by category using quick-access filter chips at the top. Toggle essential-only view to focus on must-have items. The main dashboard shows your packing progress with a visual progress bar and tracks how many essential items are still unpacked.
+
+Analyze your pack weight with detailed charts. A pie chart breaks down weight distribution across all nine gear categories so you can see exactly where the kilograms go. A bar comparison shows relative weights side by side. Reference benchmarks help you understand if your pack falls into ultralight, lightweight, or traditional weight ranges. The Big Three focus reminds you that tent, sleeping bag, and pad typically account for half your total pack weight.
+
+Plan meals and water for your entire group using the built-in food calculator. Enter your daily calorie target and the app calculates total calories, estimated food weight, and water requirements for the full trip duration. A daily breakdown chart shows calorie distribution across breakfast, lunch, dinner, and snacks. Water calculation assumes three liters per person per day with a visual bar chart showing daily needs.
+
+Learn eight essential camping knots with step-by-step instructions. Each knot card shows its name, primary use, and difficulty level. Tap to expand and see numbered instructions for tying bowline, clove hitch, taut-line hitch, figure eight, sheet bend, truckers hitch, prusik, and square knot. Knots are organized by difficulty from easy through medium to hard.
+
+The hexagonal tile dashboard provides quick access to all app sections with item counts and weight summaries visible at a glance. A decorative mountain range header adapts its color to match your selected trip type. Export all your data including trip details, complete gear list, and trip log as a JSON file for backup or sharing.
+
+Whether you are planning a weekend car camping trip or a multi-day backcountry expedition, Camping Gear Checklist ensures you never forget essential equipment and helps you optimize your pack weight for a better outdoor experience.
+
+📱 PRIMARY CATEGORY:
+Utilities
+
+📱 SECONDARY CATEGORY:
+Travel
+
+🎯 AGE RATING:
+4+ (No objectionable content)
+
+🖼️ SCREENSHOTS NEEDED:
+1. Hexagonal dashboard with packing progress and mountain header
+2. Checklist with search bar and category filter chips
+3. Add gear form with hexagon category picker
+4. Weight analysis with pie chart breakdown
+5. Food planner with calorie chart and water bars
+6. Knot guide with expandable step-by-step cards
+7. Trip setup onboarding with type selection
+
+🔒 PERMISSIONS:
+None required
+
+📝 PRIVACY POLICY:
+Not required (no data collection, local storage only)
+
+🌍 AVAILABILITY:
+All territories
+
+💰 PRICING:
+Free
+
+=== TECHNICAL INFO ===
+
+Bundle ID: com.rgutu.campinggear
+Version: 1.0
+Build: 1
+iOS Deployment Target: 17.0+
+Device Support: iPhone + iPad
+Orientation: Portrait
+
+=== MARKETING NOTES ===
+
+UNIQUE SELLING POINTS:
+- Smart gear lists generated per trip type (6 environments)
+- Hexagonal tile navigation with custom Shape
+- Pack weight analysis with pie chart and category comparison
+- Food and water calculator for group trips
+- 8 essential knots with step-by-step instructions
+- Packing progress tracker with essential item alerts
+- JSON data export via ShareLink
+- No subscription, no data collection
+
+TARGET KEYWORDS FOR ASO:
+- camping checklist
+- packing list hiking
+- backpack weight tracker
+- camping gear organizer
+- outdoor trip planner
+- camping knots guide
+- food planner camping
+
+COMPETITIVE ADVANTAGE:
+Most camping checklist apps are simple to-do lists without intelligence. This app generates context-aware gear lists based on trip type, provides weight analysis with charts to help ultralight packers optimize their load, includes a food and water calculator for group planning, and teaches essential knots. The combination of smart checklists, weight analytics, meal planning, and knot reference in one app replaces multiple separate tools.
